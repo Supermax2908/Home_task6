@@ -1,2 +1,1 @@
-print('Hello, world!!')
-print('Hello, Max. Where Max?')
+print('Hello, I am Max')
